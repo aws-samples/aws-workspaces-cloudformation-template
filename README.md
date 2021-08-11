@@ -6,11 +6,12 @@
 ### Pre-Requirements
 #### - It is mandatory to have AWS Directory Service (AD Connector or Managed AD) configured in AWS account.
 
-
 ### This template requires to fill the parameters below:
 
-#### - WorkSpace Bundle (Bundle identification)
-#### - WorkSpace Directory (AD Connector or Managed AD DirectoryId)
+![](workspaces_param_image.png)
+
+#### - WorkSpace Bundle (Bundle identification) - This default is a format sample of bundle identification
+#### - WorkSpace Directory (AD Connector or Managed AD DirectoryId) - This default is a format sample of DirectoryId
 #### - WorkSpace Owner (login user of this domain)
 #### - Root Volume Encryption Enabled (True ou False)
 #### - User Volume Encryption Enabled (True ou False)
