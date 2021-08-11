@@ -1,4 +1,4 @@
-# aws-workspaces-cloudformation-template
+# Provision new workspace through CloudFormation template
 
 ### The main goal of this template is to provision a workspace to a AWS Directory Services user (AD Connector or Managed AD).
 
