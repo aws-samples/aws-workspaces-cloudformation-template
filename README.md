@@ -10,13 +10,19 @@
 
 ![](workspaces_param_image.png)
 
-#### - WorkSpace Bundle (Bundle identification) - This default is a format sample of bundle identification
-#### - WorkSpace Directory (AD Connector or Managed AD DirectoryId) - This default is a format sample of DirectoryId
-#### - WorkSpace Owner (login user of this domain)
-#### - Root Volume Encryption Enabled (True ou False)
-#### - User Volume Encryption Enabled (True ou False)
-#### - Encryption Key ARN (Encryption key ARN to be used to encrypt Root Volume and/or User Volume)
-#### - Running Mode (ALWAYS_ON ou AUTO_STOP) 
+**- WorkSpace Bundle (Bundle identification) -** This default is a format sample of bundle identification (must be changed) 
+
+**- WorkSpace Directory (AD Connector / Managed AD / SimpleAD DirectoryId) -** This default is a format sample of DirectoryId (must be changed)
+
+**- WorkSpace Owner (login user of this domain)**
+
+**- Root Volume Encryption Enabled (True ou False)**
+
+**- User Volume Encryption Enabled (True ou False)**
+
+**- Encryption Key ARN (Encryption key ARN to be used to encrypt Root Volume and/or User Volume)**
+
+**- Running Mode (ALWAYS_ON ou AUTO_STOP)** 
 
 ## Security
 
