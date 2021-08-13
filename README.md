@@ -4,7 +4,7 @@
 
 
 ### Pre-Requirements
-#### - It is mandatory to have AWS Directory Service (AD Connector or Managed AD) configured in AWS account.
+#### - It is mandatory to have AWS Directory Service (AD Connector or Managed AD or Simple AD) configured in AWS account.
 
 ### This template requires to fill the parameters below:
 
@@ -12,7 +12,7 @@
 
 **- WorkSpace Bundle (Bundle identification) -** This default is a format sample of bundle identification (must be changed) 
 
-**- WorkSpace Directory (AD Connector / Managed AD / SimpleAD DirectoryId) -** This default is a format sample of DirectoryId (must be changed)
+**- WorkSpace Directory (AD Connector / Managed AD / Simple AD DirectoryId) -** This default is a format sample of DirectoryId (must be changed)
 
 **- WorkSpace Owner (login user of this domain)**
 
