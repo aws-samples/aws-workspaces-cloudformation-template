@@ -37,11 +37,9 @@ Parameters:
   Bundle:
     Type: String
     Description: Select the bundle that should be deployed
-    Default: "wsb-9xpv6pkq1"
   Directory:
     Type: String
     Description: Enter the Directory ID for the WorkSpace (Directory Services or AD Connector)
-    Default: "d-9067636732"
   User:
     Type: String
     Description: Enter the username who will use the WorkSpace
